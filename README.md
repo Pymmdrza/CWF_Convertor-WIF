@@ -28,7 +28,7 @@ For Convert WIF To Private Key Click To `Convert Wif To Private Key ` and active
 
 ---
 
-Download in 2 Part and Extract With Winrar : [Download Part1](https://github.com/Pymmdrza/CWF_Convertor-WIF/blob/mainx/CWF.part1.rar) | [Download Part2](https://github.com/Pymmdrza/CWF_Convertor-WIF/blob/mainx/CWF.part2.rar)
+Can download protable version with zip download and easy setup from github [Download CWF v1](https://github.com/Pymmdrza/CWF_Convertor-WIF/releases/tag/CWF.1.0.0.1)
 
 or
 
